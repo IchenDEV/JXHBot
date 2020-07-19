@@ -127,6 +127,10 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\com.zjutjh.jxhbot.Code\com.zjutjh.jxhbot.Code.csproj">
+      <Project>{4f16ba7a-d240-4453-9820-fa29ce0423a8}</Project>
+      <Name>com.zjutjh.jxhbot.Code</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Native.Sdk\Native.Sdk.csproj">
       <Project>{d7a958b3-79d9-49f8-8bb4-9619bab6ecba}</Project>
       <Name>Native.Sdk</Name>

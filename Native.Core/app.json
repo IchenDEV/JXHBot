@@ -5,11 +5,11 @@
 {
 	"ret": 1,
 	"apiver": 9,
-	"name": "酷Q样例应用 for C#",
+	"name": "精小弘机器人",
 	"version": "1.0.0",
 	"version_id": 1,
-	"author": "JieGG",
-	"description": "酷Q样例应用(V9应用机制)",
+	"author": "idevlab",
+	"description": "精小弘机器人",
 	"event": [
 		{
 			"id": 1,
